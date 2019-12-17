@@ -34,7 +34,7 @@ QA|罗雅琴
 # 原型
 - 产品框架
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1217/132649_c0422e3e_1531930.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1217/132649_c0422e3e_1531930.png)
 
 - 产品原型
 [原型查看](http://nfunm063.gitee.io/museum_app_prototype)
